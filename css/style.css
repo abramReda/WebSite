@@ -4,7 +4,10 @@
         color:#fff;
         font-size: 20px;
         text-align: center;
-        padding: 20px 0
+        padding: 20px 0;
+		letter-spacing:20px;
+		woed-spacing:35px;
+		text-transform:uppercase;
       }
       .navigation{
         background: #DDD;
